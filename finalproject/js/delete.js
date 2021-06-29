@@ -1,4 +1,4 @@
-/// George mathioudakis 001211882
+/// George mathioudakis 
 /// December 12,2020
 /// This  is a javascript file used for  listening  to change between user wanting to delte there account and double checking that they do
 $(document).ready(function () {
