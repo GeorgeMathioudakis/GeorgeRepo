@@ -3,7 +3,7 @@
  * 
  * This php script is used to  play the different segment of the war card game 
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 session_start();
