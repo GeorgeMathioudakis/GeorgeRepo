@@ -1,4 +1,4 @@
-/// George mathioudakis 001211882
+/// George mathioudakis 
 /// December 12,2020
 /// This  is a javascript file used for  listening  button presses for the iuser to start the round of war for the user and then send inforamtion 
 ///to  php file to insert or update user info in highscore table and tell the user what happend.
