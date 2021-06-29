@@ -4,7 +4,7 @@
  * This php script is used to   get a parameter called type to know how to order the  select stament.
  * That then is echod json encode to be displayed to highscore php script
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 include "connect2.php";
