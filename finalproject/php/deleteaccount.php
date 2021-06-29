@@ -3,7 +3,7 @@
  * 
  * This php script is used to  delete the current users account with there username 
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 session_start();
