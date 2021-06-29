@@ -3,7 +3,7 @@
  * 
  * This php script is used to  show the logged out state of the user
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 session_start();
