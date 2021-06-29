@@ -4,7 +4,7 @@
  * This php script is used to  receives 2 get parameter and insert them into a database to a create a user.
  * Thenecho back if it was succsessful 
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 
