@@ -1,0 +1,19 @@
+/* George mathioudakis 001211882
+December 12,2020
+This  is a css file used for the  cards utopia website to look uniform with all the pages. 
+ */
+* {
+    background-color: lightblue;
+    text-align: center;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+}
+
+title {
+    display: none;
+}
+
+a {
+    color: black;
+}

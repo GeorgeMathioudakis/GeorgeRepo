@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>User creation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/createuser.js"></script>
+    <style>
+        h1 {
+            margin-top: 15%;
+            font: 2em sans-serif;
+            text-decoration: underline;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1 id="title"> Account Creation</h1>
+    <form method='post' id="createuser">
+        <p> username must 3 - 12 characters long</p>
+        <input type='text' name='username' placeholder='username' id="usn" required><br>
+        <p id="error1"></p>
+        <p>password must 3 - 12 characters long</p>
+        <input type='password' name='password' placeholder='password' id="psw" required><br>
+        <p id="error2"></p>
+        <input type='submit' value='Create account'>
+        <p id="error3"></p>
+
+    </form>
+    <p id="loginlink"></p>
+
+</body>
+
+</html>

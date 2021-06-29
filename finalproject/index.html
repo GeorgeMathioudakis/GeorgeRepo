@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Page login</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <style>
+        h1 {
+            margin-top: 10%;
+        }
+
+        #title {
+            margin-top: 0%;
+            font: 5em sans-serif;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="title"><B>Card games utopia</B></h1>
+    <h1>Please Log In</h1>
+    <form method='post' action='php/menu.php'>
+        <input type='text' name='username' placeholder='username' required><br>
+        <input type='password' name='password' placeholder='password' required><br>
+        <input type='submit' value='Login'>
+    </form>
+    <p><a href="createuser.html">Register new accounts</a></p>
+</body>
+
+</html>
