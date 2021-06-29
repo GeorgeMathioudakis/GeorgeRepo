@@ -3,7 +3,7 @@
  * 
  * This php script is used to  double check with the user if the ywant to delete there account then send them to delete account php script
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 session_start();
