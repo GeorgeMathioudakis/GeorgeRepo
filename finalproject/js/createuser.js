@@ -1,4 +1,4 @@
-/// George mathioudakis 001211882
+/// George mathioudakis 
 /// December 12,2020
 /// This  is a javascript file used for  listening  to input for the user to make sure they input correct information and do not make a username that alreay exist in the users table.
 window.addEventListener("load", function () {
