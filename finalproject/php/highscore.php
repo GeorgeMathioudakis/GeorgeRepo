@@ -3,7 +3,7 @@
  * 
  * This php script is used to  ask the user what type of highscore table they want of top winners or looser
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 
