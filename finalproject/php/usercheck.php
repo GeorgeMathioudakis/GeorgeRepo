@@ -3,7 +3,7 @@
  * 
  * This php script is used to check if a user is in the database so they can not use the same username
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 include "connect1.php";
