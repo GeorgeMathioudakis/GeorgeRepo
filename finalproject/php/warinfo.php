@@ -3,7 +3,7 @@
  * 
  * This php script is used to  check if the user alreay has a record in the highscore table and add them to it with the parameter or if they alreay are i nthe table to update it.
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 session_start();
