@@ -1,4 +1,4 @@
-/// George mathioudakis 001211882
+/// George mathioudakis 
 /// December 12,2020
 /// This  is a javascript file used for  listening  to what type of highscore table they want and recieve a json encoded oen then display it to the user
 $(document).ready(function () {
