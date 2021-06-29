@@ -4,7 +4,7 @@
  * and make sure your login information is correct after you upload 
  * to csunix or your app will stop working.
  * 
- * George Mathioudakis, Mohawk College, 2020
+ * George Mathioudakis, 
  */
 try {
     $dbh = new PDO(
