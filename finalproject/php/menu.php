@@ -3,7 +3,7 @@
  * 
  * This php script is used to  to be the main menu for a user when they log in by checking if they have the same password as the database one
  * 
- * George Mathioudakis, 001211882
+ * George Mathioudakis, 
  * December 12/2020
  */
 session_start();
